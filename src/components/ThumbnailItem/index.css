@@ -1,0 +1,15 @@
+/* Write your code here. */
+li {
+  list-style-type: none;
+}
+
+.thumnail_image {
+  height: 40px;
+  width: 40px;
+  margin: 20px;
+}
+
+button {
+  border-width: 0px;
+  background-color: #ffffff;
+}
